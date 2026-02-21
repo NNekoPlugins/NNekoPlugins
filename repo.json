@@ -11,7 +11,7 @@
     "Tags": [ "utility", "other", "trigger", "conditions", "chat", "commands", "roleplay", "rp", "NaughtyNeko", "NNeko" ],
     "DalamudApiLevel": 14,
     "LoadPriority": 69,
-    "IconUrl": "https://raw.githubusercontent.com/Project-GagSpeak/repo/main/ProjectGagSpeak/images/icon.png",
+    "IconUrl": "https://raw.githubusercontent.com/NjalTheKnut/repo/main/NNekoPlugins/ttrig.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadLinkInstall": "https://github.com/NjalTheKnut/Dalamud.TravelTriggers/releases/download/v0.7/latest.zip",
