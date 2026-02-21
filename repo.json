@@ -1,0 +1,21 @@
+[
+  {
+    "Author": "NaughtyNeko",
+    "Name": "TravelTriggers",
+    "InternalName": "TravelTriggers",
+    "AssemblyVersion": "0.7",
+    "Punchline": "Automatically execute commands under certain conditions.",
+    "Description": "Sets per-character chat command triggered on:\n- Zone changes\n - Class/Job Swaps\n Other Options:\n - Roleplay Only Toggle (Blocks unless \"RP\" Online Status is set)\n - RNG Toggle (Triggers fire randomly, given a custom min/max range)\n - Override Toggle (Overrides commands set for all triggers with a master command)",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/NjalTheKnut/Dalamud.TravelTriggers",
+    "Tags": [ "utility", "other", "trigger", "conditions", "chat", "commands", "roleplay", "rp", "NaughtyNeko", "NNeko" ],
+    "DalamudApiLevel": 14,
+    "LoadPriority": 69,
+    "IconUrl": "https://raw.githubusercontent.com/Project-GagSpeak/repo/main/ProjectGagSpeak/images/icon.png",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadLinkInstall": "https://github.com/NjalTheKnut/Dalamud.TravelTriggers/releases/download/v0.7/latest.zip",
+    "DownloadLinkTesting": "https://github.com/NjalTheKnut/Dalamud.TravelTriggers/releases/download/v0.7/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/NjalTheKnut/Dalamud.TravelTriggers/releases/download/v0.7/latest.zip"
+  }
+]
