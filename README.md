@@ -1,4 +1,4 @@
 # NNekoPlugins
 ```
-https://raw.githubusercontent.com/NjalTheKnut/NNekoPlugins/main/repo.json
+https://raw.githubusercontent.com/NNekoPlugins/NNekoPlugins/main/repo.json
 ```
