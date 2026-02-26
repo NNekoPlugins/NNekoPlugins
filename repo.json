@@ -3,7 +3,6 @@
   "Author": "NaughtyNeko",
     "Name": "NNekoTriggers",
     "InternalName": "NNekoTriggers",
-    "AssemblyVersion": "0.9",
     "Punchline": "Automatically execute commands under certain conditions.",
     "Description": "Sets per-character chat command triggered on:\n- Zone changes\n - Class/Job Swaps\n- Login\n Other Options:\n - Roleplay Only Toggle (Blocks unless \"RP\" Online Status is set)\n - RNG Toggle (Triggers fire randomly, given a custom min/max range)\n - Override Toggle (Overrides commands set for all triggers with a master command)",
     "ApplicableVersion": "any",
@@ -14,15 +13,14 @@
     "IconUrl": "https://github.com/NNekoPlugins/NNekoPlugins/raw/main/ttrig.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadLinkInstall": "https://github.com/NNekoPlugins/NNekoTriggers/releases/download/v0.9/latest.zip",
-    "DownloadLinkTesting": "https://github.com/NNekoPlugins/NNekoTriggers/releases/download/v0.9/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/NNekoPlugins/NNekoTriggers/releases/download/v0.9/latest.zip"
+    "DownloadLinkInstall": "https://github.com/NNekoPlugins/NNekoTriggers/releases/download/v1.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/NNekoPlugins/NNekoTriggers/releases/download/v1.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/NNekoPlugins/NNekoTriggers/releases/download/v1.0/latest.zip"
   },
   {
     "Author": "NaughtyNeko",
     "Name": "Enhanced Battle Mode",
     "InternalName": "EnhancedBattleMode",
-    "AssemblyVersion": "0.1",
     "Punchline": "Intelligent management of draw/sheathe actions.",
     "Description": "Intelligent management of draw/sheathe actions.",
     "ApplicableVersion": "any",
