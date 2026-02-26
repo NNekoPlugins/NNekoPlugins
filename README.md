@@ -1,2 +1,4 @@
 # NNekoPlugins
-Custom Dalamud Plugin Repository
+```
+https://raw.githubusercontent.com/NjalTheKnut/NNekoPlugins/main/repo.json
+```
